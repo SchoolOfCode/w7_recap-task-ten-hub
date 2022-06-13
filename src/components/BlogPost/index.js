@@ -9,7 +9,6 @@ function BlogPost({blog}) {
     <figcaption>{blog.imageAlt}</figcaption>
     </figure>
     <p>{blog.content}</p>
-    
     </div>
   );
 }

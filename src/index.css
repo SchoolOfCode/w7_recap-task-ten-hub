@@ -13,6 +13,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: antiquewhite;
+  padding: 30px;
 }
 
 .blog-image {
@@ -22,6 +23,22 @@ body {
   justify-content: center;
   align-items: center;
   background-color: aqua;
+}
+
+.comment-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: palegoldenrod;
+}
+
+.comment{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: skyblue;
 }
 
 code {
